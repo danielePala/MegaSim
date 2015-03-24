@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<queue-entries>
+<!--Define the simulator queue -->
+  <queue>
+    <name>simulator</name>
+    <rate>1/s</rate>
+  </queue>
+</queue-entries>
